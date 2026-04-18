@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../ecommerce"
+		},
+		{
+			"path": "../java"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ecommerce"
+	}
+}
